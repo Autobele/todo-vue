@@ -1,9 +1,9 @@
 # todo with vuejs
 
 ## Features
-** [x] Add Task
-** [x] Remove Task
-** [x] Progress Bar
+- [x] Add Task
+- [x] Remove Task
+- [x] Progress Bar
 
 ## Project setup
 ```
